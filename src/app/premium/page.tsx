@@ -175,7 +175,7 @@ export default function PremiumPage() {
               boxShadow: "0 4px 24px rgba(245,158,11,0.4)",
             }}
           >
-            Premium'u Başlat ⭐
+            Premium&apos;u Başlat ⭐
           </button>
           <p className="text-center text-xs text-slate-500 mt-2">
             İstediğin zaman iptal edebilirsin
