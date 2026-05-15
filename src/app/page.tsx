@@ -22,7 +22,7 @@ export default function RootPage() {
     <div className="flex items-center justify-center min-h-dvh">
       <div className="text-center">
         <div className="text-5xl mb-4 animate-float">🤲</div>
-        <p className="gradient-text text-2xl font-bold">DuaLock</p>
+        <p className="gradient-text text-2xl font-bold">SecdeLock</p>
       </div>
     </div>
   );
